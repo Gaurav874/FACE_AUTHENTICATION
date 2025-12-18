@@ -1,11 +1,18 @@
-.idea/
+# .idea/
 
+# __pycache__/
+
+# test-images/
+
+# training-images/
+
+# *.csv
+
+# *.pkl
+
+
+
+venv/
 __pycache__/
-
-test-images/
-
-training-images/
-
-*.csv
-
-*.pkl
+.idea/
+*.bak
